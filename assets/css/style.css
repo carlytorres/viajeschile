@@ -1,0 +1,52 @@
+body * {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #000;
+    color: #fff;
+}
+
+.navbar {
+    z-index: 2;
+}
+
+hr {
+    border: solid 3px #17a3b8;
+    margin: 3% 0;
+}
+
+.card,
+footer {
+    background-color: #17a3b8;
+}
+
+h3 {
+    text-align: center;
+    padding: 2% 0;
+}
+
+section {
+    padding: 3%;
+}
+
+a {
+    color: #fff;
+}
+
+footer{
+    display: flex;
+    justify-content:space-between;
+    padding: 1% 10%;
+}
+<<<<<<< HEAD
+
+p{
+    margin: 2% 0;
+=======
+p{
+    margin:2% 0;
+>>>>>>> main
+}
